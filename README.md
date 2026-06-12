@@ -1,30 +1,36 @@
-# Hi there, I'm Arnno Ahamed Hridoy 👋
+# 👋 Hi there, I'm Arnno Ahamed Hridoy
 
-## 👤 About Me
+## 🏢 About Me
 
-I'm a Python developer from Bangladesh 🇧🇩, focused on building reliable automation tools, desktop applications, and web systems.
+I'm a Python developer from Bangladesh 🇧🇩, working under my personal development identity.
 
-I enjoy creating software that is not just functional, but stable, efficient, and production-ready.
+I focus on building **reliable, scalable, and production-ready software** using Python and modern web technologies.
 
-- 🔭 Currently working on Python automation & desktop apps  
-- 🔬 Exploring Android reverse engineering & APK analysis  
-- 💬 Ask me about Python, Selenium, Playwright, or web development  
-- 📍 Based in Bangladesh  
+I believe in:
+> 💡 “Speciality & Reliability — not just a name, it's a standard.”
+
+---
+
+## 🔭 Currently Working On
+- Python Automation Tools 🤖  
+- Desktop Applications 🖥️  
+- Web Development 🌐  
+- Android APK Analysis & Reverse Engineering 🔬  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Python Development
+### 🐍 Python Ecosystem
 Python • Selenium • Playwright • Requests • ADB • PyQt5 • CustomTkinter
 
-### 🌐 Frontend
-HTML5 • CSS3 • JavaScript • React
+### 🌐 Web Development
+HTML • CSS • JavaScript • React
 
 ### ⚙️ Backend
 Django • Flask • FastAPI • Node.js • Express.js
 
-### 🗄️ Databases
+### 🗄️ Database
 MySQL • MongoDB
 
 ### 🔬 Reverse Engineering
@@ -34,11 +40,13 @@ Apktool • Frida • Burp Suite • Reqable • SSL Pinning Bypass
 
 ## 🚀 What I Do
 
-- 🤖 Python Automation (bots, scraping, task automation)
-- 🖥️ Desktop Applications (PyQt5 & CustomTkinter GUI apps)
-- 🔍 APK Reverse Engineering & analysis
-- 🌐 Full-stack Web Development
-- 🗄️ Database design & API integration
+| Field | Description |
+|------|-------------|
+| 🤖 Automation | Bots, scraping, task automation using Python |
+| 🖥️ Desktop Apps | GUI apps with PyQt5 & CustomTkinter |
+| 🔍 APK Analysis | Reverse engineering Android applications |
+| 🌐 Web Dev | Full-stack web applications |
+| 🗄️ Database | Database design & API integration |
 
 ---
 
@@ -52,11 +60,10 @@ Apktool • Frida • Burp Suite • Reqable • SSL Pinning Bypass
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/arnno-ahamed-hridoy  
-- Facebook: YOUR_LINK  
-- WhatsApp: YOUR_NUMBER  
-- Telegram: YOUR_LINK  
+- 🔗 GitHub: https://github.com/arnno-ahamed-hridoy  
+- 📍 Location: Bangladesh  
+- 💬 Open to collaboration & learning  
 
 ---
 
-> 💡 “Speciality & Reliability — not just a name, it's a standard.”
+> ⚡ Speciality & Reliability — built with consistency, not hype.
