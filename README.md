@@ -1,105 +1,62 @@
-<h1 align="center">Hi 👋, I'm ARNNO AHAMED HRIDOY</h1>
+# Hi there, I'm Arnno Ahamed Hridoy 👋
 
-<h3 align="center">🚀 Python Automation Learner | Selenium & Playwright Enthusiast 🇧🇩</h3>
+## 👤 About Me
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Automation+Learner;Learning+Selenium+%26+Playwright;Future+Automation+Engineer;Always+Learning+New+Things" />
-</p>
+I'm a Python developer from Bangladesh 🇧🇩, focused on building reliable automation tools, desktop applications, and web systems.
 
----
+I enjoy creating software that is not just functional, but stable, efficient, and production-ready.
 
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **Python Automation**
-- 🤖 Exploring **Selenium** and **Playwright**
-- 💻 Using **VS Code**, **Git**, and **GitHub**
-- 🚀 Building automation projects step by step
-- 🇧🇩 From Bangladesh
+- 🔭 Currently working on Python automation & desktop apps  
+- 🔬 Exploring Android reverse engineering & APK analysis  
+- 💬 Ask me about Python, Selenium, Playwright, or web development  
+- 📍 Based in Bangladesh  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+### 🐍 Python Development
+Python • Selenium • Playwright • Requests • ADB • PyQt5 • CustomTkinter
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### 🌐 Frontend
+HTML5 • CSS3 • JavaScript • React
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+### ⚙️ Backend
+Django • Flask • FastAPI • Node.js • Express.js
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+### 🗄️ Databases
+MySQL • MongoDB
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+### 🔬 Reverse Engineering
+Apktool • Frida • Burp Suite • Reqable • SSL Pinning Bypass
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+## 🚀 What I Do
 
-</p>
+- 🤖 Python Automation (bots, scraping, task automation)
+- 🖥️ Desktop Applications (PyQt5 & CustomTkinter GUI apps)
+- 🔍 APK Reverse Engineering & analysis
+- 🌐 Full-stack Web Development
+- 🗄️ Database design & API integration
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnno-ahamed-hridoy&show_icons=true&theme=tokyonight)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arnno-ahamed-hridoy&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnno-ahamed-hridoy&layout=compact&theme=tokyonight"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnno-ahamed-hridoy&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## 📬 Connect With Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arnno-ahamed-hridoy&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnno-ahamed-hridoy&theme=tokyo-night"/>
-
-</p>
+- GitHub: https://github.com/arnno-ahamed-hridoy  
+- Facebook: YOUR_LINK  
+- WhatsApp: YOUR_NUMBER  
+- Telegram: YOUR_LINK  
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arnno-ahamed-hridoy&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.facebook.com/arnoahamedridoy/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=arnno-ahamed-hridoy&label=PROFILE+VIEWS)
-
----
-
-### ⚡ Quote
-
-> "Success comes from consistency, learning, and never giving up."
-
-⭐ Thanks for visiting my profile!
+> 💡 “Speciality & Reliability — not just a name, it's a standard.”
