@@ -192,8 +192,9 @@ New tools in development. Follow on Telegram for early access and tiered licensi
 
 | Platform | Link |
 |----------|------|
-| 📱 Telegram | [@hsnkteam](https://t.me/arnn20) |
-| 💻 GitHub | [https://github.com/arnno-ahamed-hridoy) |
+| 📱 Telegram | [@hsnkteam](https://t.me/hsnkteam) |
+| 💻 GitHub | [hridoy1850](https://github.com/hridoy1850) |
+| 🌐 Quran App | [hridoy1850.github.io/quran-app](https://hridoy1850.github.io/quran-app) |
 
 <br/>
 
