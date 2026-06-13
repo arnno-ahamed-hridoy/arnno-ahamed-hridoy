@@ -57,10 +57,10 @@
 ## 🚀 Current Learning Journey
 
 ```text
-🐍 Python Fundamentals      ████████████░░░░ 95%
-🤖 Selenium Automation      ██████████░░░░░░ 90%
-🎭 Playwright                 ███████░░░░░░░░░ 70%
-🌐 Web Scraping             ████████░░░░░░░░ 50%
+🐍 Python Fundamentals ████████████░░░░ 95%
+🤖 Selenium Automation ██████████░░░░░░ 90%
+🎭 Playwright          ███████░░░░░░░░░ 70%
+🌐 Web Scraping        ████████░░░░░░░░ 50%
 ```
 
 ---
