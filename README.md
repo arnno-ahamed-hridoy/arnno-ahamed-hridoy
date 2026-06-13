@@ -1,69 +1,105 @@
-# 👋 Hi there, I'm Arnno Ahamed Hridoy
+<h1 align="center">Hi 👋, I'm ARNNO AHAMED HRIDOY</h1>
 
-## 🏢 About Me
+<h3 align="center">🚀 Python Automation Learner | Selenium & Playwright Enthusiast 🇧🇩</h3>
 
-I'm a Python developer from Bangladesh 🇧🇩, working under my personal development identity.
-
-I focus on building **reliable, scalable, and production-ready software** using Python and modern web technologies.
-
-I believe in:
-> 💡 “Speciality & Reliability — not just a name, it's a standard.”
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Automation+Learner;Learning+Selenium+%26+Playwright;Future+Automation+Engineer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🔭 Currently Working On
-- Python Automation Tools 🤖  
-- Desktop Applications 🖥️  
-- Web Development 🌐  
-- Android APK Analysis & Reverse Engineering 🔬  
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Python Automation**
+- 🤖 Exploring **Selenium** and **Playwright**
+- 💻 Using **VS Code**, **Git**, and **GitHub**
+- 🚀 Building automation projects step by step
+- 🇧🇩 From Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Python Ecosystem
-Python • Selenium • Playwright • Requests • ADB • PyQt5 • CustomTkinter
+<p align="left">
 
-### 🌐 Web Development
-HTML • CSS • JavaScript • React
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### ⚙️ Backend
-Django • Flask • FastAPI • Node.js • Express.js
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-### 🗄️ Database
-MySQL • MongoDB
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
-### 🔬 Reverse Engineering
-Apktool • Frida • Burp Suite • Reqable • SSL Pinning Bypass
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-## 🚀 What I Do
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-| Field | Description |
-|------|-------------|
-| 🤖 Automation | Bots, scraping, task automation using Python |
-| 🖥️ Desktop Apps | GUI apps with PyQt5 & CustomTkinter |
-| 🔍 APK Analysis | Reverse engineering Android applications |
-| 🌐 Web Dev | Full-stack web applications |
-| 🗄️ Database | Database design & API integration |
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnno-ahamed-hridoy&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnno-ahamed-hridoy&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arnno-ahamed-hridoy&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnno-ahamed-hridoy&layout=compact&theme=tokyonight"/>
 
-## 📬 Connect With Me
-
-- 🔗 GitHub: https://github.com/arnno-ahamed-hridoy  
-- 📍 Location: Bangladesh  
-- 💬 Open to collaboration & learning  
+</p>
 
 ---
 
-> ⚡ Speciality & Reliability — built with consistency, not hype.
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arnno-ahamed-hridoy&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnno-ahamed-hridoy&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arnno-ahamed-hridoy&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/arnoahamedridoy/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=arnno-ahamed-hridoy&label=PROFILE+VIEWS)
+
+---
+
+### ⚡ Quote
+
+> "Success comes from consistency, learning, and never giving up."
+
+⭐ Thanks for visiting my profile!
